@@ -1,3 +1,4 @@
+# Prograam to sort a sentence
 
 sent=input("Enter a sentence: ")
 L=sent.split()
