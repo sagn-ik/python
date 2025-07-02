@@ -1,3 +1,5 @@
+#Scan all letters in a word, if the letter in a consonant replace it with the letter in its prev index else with the letter in the next index 
+
 word=input("Enter a word: ")
 nwd=""
 i=0
